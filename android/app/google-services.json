@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176184240391",
+    "firebase_url": "https://tunebooth-client.firebaseio.com",
+    "project_id": "tunebooth-client",
+    "storage_bucket": "tunebooth-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176184240391:android:f43fbf00eca1c175b13da2",
+        "android_client_info": {
+          "package_name": "com.tunebooth_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176184240391-757fafi5e1neshhgcu1jfmf6hdjt38cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunebooth_client",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "176184240391-iu39d4o1m541dh9dm5vtoq2s0ecsakdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBy4ZmPO74rtRwB6sjcl3F1im2Cyu5SI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176184240391-iu39d4o1m541dh9dm5vtoq2s0ecsakdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
